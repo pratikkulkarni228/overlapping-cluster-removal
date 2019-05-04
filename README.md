@@ -1,5 +1,7 @@
 # overlapping-cluster-removal
-This is a micro project for my algorithms class. 
+Welcome to the cluster-removal micro-project repository.
+
+Following is the problem statemet: 
 You are given a list of tuples of the form (<float> x, <float> y, <float> r,) (let's call these c-tuples). Each c-tuple represents a circle on a rectangular coordinate space, with x and y being the coordinates of the center and r being the radius. Assume that each c-tuple has a unique radius.
   
  Let a cluster of circles be a group of circles where each circle in the group overlaps with atleast one other circle in that group. Formally, first let a path be formed between two circles when they overlap. Define a cluster as a group of n circles, where each circle is reachable from every other circle through the formed paths. 
