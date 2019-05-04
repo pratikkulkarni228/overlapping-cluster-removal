@@ -10,3 +10,5 @@ Write a python script that does the following:
 Foreachcluster,the circle with the largest area is kept, and all other circles in that cluster are removed.
 Return the resulting list of c-tuples.
 Some examples are shown.
+
+![Cluster example](/cluster.png)
