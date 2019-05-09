@@ -11,4 +11,5 @@ Foreachcluster,the circle with the largest area is kept, and all other circles i
 Return the resulting list of c-tuples.
 Some examples are shown.
 
+The solution makes use of Disjoint sets to clearly seperate multiple clusters, which is crucial.
 ![Cluster example](/cluster.png)
